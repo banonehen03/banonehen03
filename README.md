@@ -7,6 +7,9 @@
 
 Skills: C / C++ / JS / HTML / CSS
 
+
+CHỖ ĐỂ HỎI LÀ BIỂU TƯỢNG FACEBOOK DƯỚI NHÉ
+
 <p align="center">
 &nbsp; <a href="https://www.facebook.com/khuatanhviet" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
 
