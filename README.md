@@ -12,6 +12,14 @@ CHỖ ĐỂ HỎI LÀ BIỂU TƯỢNG FACEBOOK DƯỚI NHÉ
 
 <p align="center">
 &nbsp; <a href="https://www.facebook.com/khuatanhviet" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
+  
+  
+  <div> 
+  <a href="https://instagram.com/vdtvcl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/anhviet032005" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/yXfYwMzdmj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "vietkhuat2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    </div>
 
 
 - 🔭 I’m currently working on this page. 
