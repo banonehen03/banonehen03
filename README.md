@@ -24,7 +24,6 @@ CHỖ ĐỂ HỎI LÀ BIỂU TƯỢNG FACEBOOK DƯỚI NHÉ
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/p160x160/247028372_417217559770517_1223068442140013217_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=aee45a&_nc_ohc=aykHgT1H5rQAX8RnbrL&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLzGVGWPY8ON-AmsHSwgHhY2ZR56g6yvwXtgCpb6jyABw&oe=62319832">
 </div>
   
   
