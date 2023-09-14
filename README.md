@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Khuat Anh Viet
-#### tôi là 1 thằng thích mèo , ghét chó , và iu 1 em cute tên Quỳnh
-![tôi là 1 thằng thích mèo , ghét chó , và iu 1 em cute tên Quỳnh](https://gifburg.com/images/gifs/cat/webp/0018.webp)
+#### tôi là 1 thằng thích mèo , ghét chó , và iu 1 em cute xinh gái tên Quỳnh
+![tôi là 1 thằng thích mèo , ghét chó , và iu 1 em cute xinh gái tên Quỳnh](https://gifburg.com/images/gifs/cat/webp/0018.webp)
 
 
 𝒈𝒆𝒕 𝒂𝒍𝒍 𝒌𝒊𝒏𝒅𝒔 𝒐𝒇 𝒄𝒐𝒅𝒆 𝒂𝒃𝒐𝒖𝒕 𝒄++ 𝒉𝒕𝒎𝒍 / 𝒄𝒔𝒔 .  -
