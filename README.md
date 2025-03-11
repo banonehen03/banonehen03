@@ -42,7 +42,6 @@ CHỖ ĐỂ HỎI LÀ BIỂU TƯỢNG FACEBOOK DƯỚI NHÉ
 </div>
 
 
-- 🔭 I’m currently working on this page. 
 
 
 
